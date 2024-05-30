@@ -31,3 +31,11 @@
 .text-punto{
     color: var(--primary);
 }
+
+.badge{
+    background-color: var(--primary);
+}
+
+.card-text{
+    color: var(--primary);
+}
