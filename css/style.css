@@ -2,7 +2,7 @@
     --primary: #6209DB;
     --dark: #000000;
     --light: #ffffff;
-    --grey: #f5f5f5;
+    --grey: #e4e4e4;
 }
 
 .btn-primary{
@@ -38,4 +38,14 @@
 
 .card-text{
     color: var(--primary);
+}
+
+.font{
+    background-color: var(--primary);
+    color: var(--light);
+}
+
+.font1{
+    background-color: var(--grey);
+    border-color: var(--light);
 }
